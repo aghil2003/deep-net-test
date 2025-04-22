@@ -8,7 +8,7 @@ const menuRoutes = require('./routes/menu')
 dbConnection()
 
 app.use(cors({
-  origin: '*',  // Specify the frontend URL you want to allow
+  origin: 'https://deep-net-test-1.onrender.com', 
 }));
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json())
