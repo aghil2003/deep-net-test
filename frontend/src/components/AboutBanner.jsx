@@ -18,7 +18,7 @@ const AboutBanner = () => {
           <h2 className="text-[#0796EF] font-medium text-lg ">Connect With Us</h2>
           <div className="flex gap-2 items-center mt-2">
               {/* <BsFillTelephoneFill /> */}
-              <p>+91 96473524253</p>
+              <p>+91 9567843340</p>
           </div>
           <div className="flex gap-2 items-center">
               {/* <MdOutlineEmail /> */}
